@@ -2,7 +2,7 @@ export default function ContactPage() {
     return (
       <main className="bg-gray-100 text-gray-800 min-h-screen py-16 px-4 flex flex-col items-center">
         <h1 className="text-4xl md:text-5xl font-bold text-center mb-12">Contact Us</h1>
-        <div className="w-full max-w-2xl bg-white p-6 rounded-lg shadow-md flex-grow">
+        <div className="w-full max-w-2x2 bg-white p-6 rounded-lg shadow-md flex-grow">
           <form>
             <div className="mb-4">
               <label htmlFor="name" className="block text-gray-700 font-semibold mb-2">Name</label>
